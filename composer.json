@@ -1,0 +1,16 @@
+{
+    "name": "wettey/skatamvcframework",
+    "authors": [
+        {
+            "name": "Wettey",
+            "email": "vetengl.lobel@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {},
+    "description": ""
+}
