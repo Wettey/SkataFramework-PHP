@@ -1,2 +1,2 @@
 # SkataFramework-PHP
-My own custom MVC frameworks based on the same principles used in popular framework like Laravel &amp; Symfony.
+My own custom MVC framework based on the same principles used in popular frameworks like Laravel &amp; Symfony.
